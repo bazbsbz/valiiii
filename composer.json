@@ -1,0 +1,6 @@
+{
+    "require": {
+        "davtur19/turibot": "^1.5",
+        "twilio/sdk": "^6.11"
+    }
+}
